@@ -1,6 +1,6 @@
 # ❤️ Happy Birthday M
 
-A beautiful, interactive, and romantic web experience designed as a special Birthday's Day gift. This project features a multi-step interactive flow that leads to a stunning 3D Dome Gallery of memories.
+A beautiful, interactive, and romantic web experience designed as a special Valentine's Day gift. This project features a multi-step interactive flow that leads to a stunning 3D Dome Gallery of memories.
 
 ## ✨ Features
 
@@ -26,7 +26,7 @@ Follow these steps to get a copy of the project up and running on your local mac
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/jimmyadriani/Birthday_Main
-   cd Birthday-Main
+   cd Birthday
    ```
 
 2. **Install dependencies:**
